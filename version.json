@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
-  "url": "https://github.com/Jonayo/FastBoosterGaming/releases/latest/download/FastBoosterGaming.exe",
-  "notes": "Primera versión pública"
+  "version": "1.0.1",
+  "url": "https://github.com/Jonayo/FastBoosterGaming/releases/latest/download/FastBoosterGaming-Setup.exe",
+  "notes": "La app ya no se cierra a sí misma: no aparece en su lista de procesos y desmarcar siempre se respeta. Ahora se actualiza sola. Instalador nuevo y restauración de servicios sin congelar la ventana."
 }
